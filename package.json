@@ -1,0 +1,48 @@
+{
+  "name": "nequevoluptates",
+  "version": "1.9.0",
+  "description": "A webpack plugin to run uglifyjs in parallel.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShayneFranecki/nequevoluptates.git"
+  },
+  "keywords": [
+    "webpack",
+    "uglifyjs",
+    "provident"
+  ],
+  "author": "EltaSwaniawski",
+  "license": "ISC",
+  "devDependencies": {
+    "acorn": "^5.1.1",
+    "ava": "^0.15.1",
+    "coveralls": "^2.11.9",
+    "escodegen": "^1.8.1",
+    "eslint": "^2.10.2",
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-plugin-import": "^1.8.0",
+    "eslint-plugin-jsx-a11y": "^1.2.2",
+    "eslint-plugin-react": "^5.1.1",
+    "nyc": "^6.6.1",
+    "sinon": "^1.17.4",
+    "webpack": "^3.0.0"
+  },
+  "dependencies": {
+    "esserepellat": "^1.0.0",
+    "glob": "^7.0.5",
+    "istenon": "^1.0.0",
+    "mkdirp": "^0.5.1",
+    "pify": "^3.0.0",
+    "quisaut": "^1.0.0",
+    "tmp": "0.0.29",
+    "uglify-es": "^3.0.26",
+    "uglify-js": "^3.0.21",
+    "webpack-sources": "^1.0.0",
+    "worker-farm": "^1.3.1"
+  },
+  "peerDependencies": {
+    "webpack": "*"
+  },
+  "homepage": "https://github.com/ShayneFranecki/nequevoluptates.git"
+}
